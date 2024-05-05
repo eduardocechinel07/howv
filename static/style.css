@@ -1,0 +1,13 @@
+.bg-orange {
+    background-color: #FF7504;
+
+}
+
+.bg-gray {
+    background-color: #767473;
+
+}
+.navbar-logo {
+    max-width: 100px; 
+    height: auto; 
+}
